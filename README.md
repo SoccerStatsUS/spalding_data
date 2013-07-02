@@ -14,3 +14,10 @@ Formalizing all data contained in the Spalding soccer guides for:
 1921-1922
 1922-1923
 1923-1924
+
+
+
+Source
+Spalding's Soccer Foot Ball Guide
+(Southern Illinois University Edwardsville)
+http://collections.carli.illinois.edu/cdm4/index_sie_soccer.php?CISOROOT=/sie_soccer
