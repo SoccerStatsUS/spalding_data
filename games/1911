@@ -1,3 +1,5 @@
+BlockSource: Spalding Soccer Guide
+
 
 *p5
 * Corinthians Tour
@@ -6,37 +8,61 @@
 *p45
 * NCAA results
 
+Competition: NCAA
+
 ; Harvard; 7-0; Andover
+
 ; Harvard; 0-4; Haverford
+
 ; Harvard; 1-1; Lynn GE
+
 ; Harvard; 4-1; Pennsylvania
+
 ; Harvard; 3-0; Columbia
+
 4/9/1911; Harvard; 0-4; Manchester United (NH)
 Source: http://query.nytimes.com/mem/archive-free/pdf?res=F00614FF3B5517738DDDA00894DC405B818DF1D3
+
 ; Harvard; 3-1; Yale
+
 ; Harvard; 0-0; Cornell
 
 ; Cornell; 1-1; Columbia
+
 ; Cornell; 1-3; Pennsylvania
+
 ; Cornell; 1-2; Haverford
+
 ; Cornell; 0-3; Yale
+
 ; Cornell; 0-0; Harvard
 
 ; Princeton; 0-3; Yetmans of Tren.
+
 ; Princeton; 1-3; Montclair AC
+
 ; Princeton; 1-0; Yale
+
 ; Princeton; 1-0; Philadelphia Central High School
+
 ; Princeton; 1-0; Bensonhurst
+
 ; Princeton; 3-5; Yetmans
+
 ; Princeton; 1-3; Haverford
+
 ; Princeton; 4-0; Columbia
 
 ; Springfield Training School; 2-0; Harvard
+
 ; Springfield Training School; 0-0; Columbia
 
 ; Toronto University; 1-0; McGill University
+
 ; Toronto University; 4-1; Queens
+
 ; Toronto University; 1-1; Queens
+
 ; Toronto University; 5-2; McGill University
 
 *p49
@@ -48,14 +74,18 @@ Source: http://query.nytimes.com/mem/archive-free/pdf?res=F00614FF3B5517738DDDA0
 *p55
 
 Competition: New York State Cup
-
 Round: 1
 
 ; Donegal Celtics; 2-3; Astoria Independent
+
 ; Brooklyn; 5-1; Boys' Club
+
 ; Clan McDuffs; 4-2; Camerons
+
 ; Clan MacDonald; 4-1; Mt. Vernon
+
 ; Brooklyn Celtics; 1-3; Critchleys
+
 ; St. Georges; 3-0; Hungarians
 
 *p57
@@ -65,9 +95,13 @@ Round: 1
 Round: 2
 
 ; Clan MacDonalds; 5-2; Bronx United
+
 ; Clan McKenzie; 5-4; St Georges
+
 ; Clan McDuffs; 4-1; Arcadia Thistles
+
 ; Hollywoods; 2-1; Brooklyn
+
 ; Astoria Independent; 3-2; NY Celtics
 
 ; Clan Bruce; W-L; Staten Island
@@ -81,13 +115,18 @@ Forfeit
 Round: 3
 
 ; Critchley; 4-0; Clan McKenzie
+
 ; Clan McDuff; 0-1; Clan MacDonald
+
 ; Clan Bruce; 0-6; Brooklyn
+
 ; Astoria Independent; 2-1; Columbia
+
 
 Round: Semifinal
 
 ; Clan MacDonald; 3-1; Critchley
+
 ; Brooklyn; 11-0; Astoria Independent
 
 Round: Final
@@ -109,7 +148,7 @@ T. Dewer, T. Dewer;
 10/16/1910; Critchley's; 2-2; Hollywood Inn; away
 
 10/23/1910; Critchley's; 1-1; Clan MacDonald; home
-W. Banks, W. Poll, H. Agar
+*W. Banks, W. Poll, H. Agar
 * two of these should be on above game - don't know which ones.
 
 11/13/1910; Critchley's; 3-1; Camerons; away
@@ -161,11 +200,15 @@ Competition: AFA Cup
 
 ; Clan MacDonald; 1-2; Philadelphia Hibs
 
+
 Competition: New York State Cup
 
 ; Clan MacDonald; 4-0; Mount Vernon
+
 ; Clan MacDonald; 5-2; Bronx United
+
 ; Clan MacDonald; 1-0; Clan MacDuff
+
 ; Clan MacDonald; 3-1; Critchley
 
 Round: Final
@@ -178,6 +221,7 @@ Round: Final
 Competition: Friendly
 
 ; Clan MacDonald; 5-0; Clan MacLean
+
 ; Clan MacDonald; 4-0; Cameron
 
 * Davie Hastie has gone to Scotland
