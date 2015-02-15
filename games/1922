@@ -1,4 +1,5 @@
 BlockSource: Spalding Soccer Guide
+Season: 1921-1922
 
 * p34
 
@@ -629,50 +630,949 @@ Competition: American Soccer League (1921-1933)
 
 * skipping these for now.
 
+
 Competition: Southern New York State Cup
 
+; New York FC; 4-1; Bay Ridge
+
+; New York FC; 5-3; Centro Hispano
+
+; New York FC; 3-0; Todd Shipyards
+
+
 Competition: National Challenge Cup
+
+; New York FC; 7-0; Catholic Club
+
+; New York FC; 5-1; Fairhill
+
+; New York FC; 3-5; Todd Shipyards
+
 
 Competition: Friendly
 
 ; New York FC; 2-0; Brooklyn Hibs
 
-; New York FC; 
+; New York FC; 1-3; Philadelphia
+
+; New York FC; 1-1; Brooklyn
+
+; New York FC; 2-2; Philadelphia
+
+; New York FC; 2-1; Philadelphia
+
+; New York FC; 6-2; Baltimore
+
+; New York FC; 6-2; Metropolitan League XI
 
 
+* p79
+Competition: Rochester and District League
 
 
-* page 81
+* p81
 * New Jersey State Cup
+Season: 1921-1922
+
+Competition: New Jersey Qualifying Cup
+Round: Preliminary
+
+; Totowa Rovers; 5-2; Bunker Hill
+
+; Bayonne Rovers; 1-0; Entre Nous
+
+; McLean FC; 2-4; Maywood
+
+; Wilberforce; 2-3; Palisades
+
+; Ryerson; 5-0; National
+
+; American; 6-0; Lorain
+
+; Clark; 0-7; Erie
+
+Round: 1
+
+; American; 4-2; Ryerson
+
+; Hudson; 5-1; Maywood
+
+; Cedar Cliff; 1-0; Totowa Rovers
+
+; Sprague; 3-2; McLeod
+
+; Standard Bleachery; 1-0; Acheson Harden
+
+; Pearl; 1-2; Bayonne Rovers
+
+; Hawthorne; 1-0; Scott
+
+; Delaware; 2-1; Cyclone
+
+; Erie; 1-0; Hooper
+
+; Paterson Thistle; 2-1; Carlton Hill
+
+; Passaic United; 0-2; Palisades Park
+
+; NJ Worsted; 1-1; S. Hird FC
+
+Round: 2
+
+Round: 3
+
+; Sprague; 2-1; Hudson
+
+; Erie; 1-3; American
+
+; Cedar Cilff; 3-2; Standard Brewery
+
+; West New York; 2-8; Hawthorne
+
+Round: Semifinals
+
+; Sprague; 2-1; American
+
+; Hawthorne; 5-1; Cedar Cliff
+
+Round: Final
+
+; Sprague; 1-0; Hawthorne
+
+Competition: New Jersey State Cup
+Round: 1
+
+; Standard Bleachery; 4-1; Gera Mills
+
+; Scot AA; 1-1; Delaware
+
+; Scot AA; 1-2; Delaware
+
+; Prospects; 4-3; Marion Crescent
+
+; Totowa Rovers; 1-0; Bunker Hill
+
+; Maywood Farmers; 5-3; Wilberforce
+
+; Sprague; 3-2; Pearl FC
+
+; National; 3-2; Atins
+
+; Kearny FC; 1-0; Ryerson
+
+; Entre Nous; 3-1; Hungaria
+
+; Paterson Thistle; 1-0; Eastside FC
+
+Round: 2
+
+; Delaware; 3-0; Passaic United
+
+; Paterson Thistle; 1-0; Hollandia
+
+; Sons of St. George; 0-1; Totowa Rovers
+
+; Napier FC; 3-2; Royal Oak
+
+; NJ Worsted; 0-1; Standard Bleachery
+
+; Maywood Farmers; 0-3; Hudson
+
+; Palisades Park; 3-2; Bayonne Rovers
+
+; Kearny FC; 1-0; Erie AA
+
+; Entre Nous; 3-1; Sprague
+
+; American; 3-4; National
+
+Round: 3
+
+; Carlton Hill; 4-2; Delaware
+
+; Hudson; 2-1; Paterson Thistle
+
+; Totowa Rovers; 1-0; Cedar Cliff
+
+; Royal Oak; 1-0; Trenton FC
+
+; National; 2-1; Kearny
+
+; Palisades Park; 3-0; Standard Bleachery
+
+; Entre Nous; 1-6; Harrison
+
+; Newark Antlers; 3-1; Babcock & Wilcox
+
+Round: 4
+
+; Harrison; 7-1; Royal Oak
+
+; Antlers; 4-0; Nationals
+
+; Palisades Park; 2-4; Hudson
+
+; Carlton Hill; 1-2; Totowa Rovers
+
+Round: Semifinals
+
+; Antler FC; 2-1; Totowa Rovers
+
+; Harrison; 7-1; Hudson
+
+Round: Final
+
+; Harrison FC; 2-0; Antler FC
+
+* p83
+* Passaic Factory Amateur League
+* American AA
+
+* p85
+* Northern NJ Amateur Soccer League
+* Ryerson FC
+* game data
+
+* p87
+* Southern New England FA
+* New Bedford Industrial League A
+* New Bedford Industrial League B
+* BB&R Knight League
+* New Bedford Junior Industrial League
+* New Bedford City League
+* Rhode Island Junior Soccer League
+
+* p89
+* Fall River Independent Soccer League
+* Fall River City League
+* Pawtucket and District League
+
+
 
 * page 89
-* Times Cup, Guy Norman Cup, Kerr Thread Cup, Surprise Cup
+
+Competition: Times Cup
+Round: Qualifying
+
+; Continentals; 5-1; Maderios SFC
+
+; Universals; 1-0; New Bedford
+
+; Pierce; 9-0; FE Earle
+
+; Murphys FC; 3-0; Potomaka
+
+; Booth Hill; 1-0; Fall River FC
+
+; Westerley United; 2-1; Prospect Hill
+
+; Crompton; 4-0; Clan Cameron
+
+; West Ends; 4-2; Esmond Cortex
+
+; Lonsdale; 5-1; Ashton-Berkeley
+
+Round: 1
+
+; Universals; 3-2; Continentals
+
+; Murphys; 1-0; Colonials
+
+; Pierce; 2-1; Acushnet-Hathaway
+
+; British Canadians; 2-1; Westerley United
+
+; Fairlawn Rovers; 6-1; Londsale
+
+; Crompton; 2-1; West Ends
+
+Round: 2
+
+; Murphys FC; 2-0; Pierce
+
+; Booth Hill; 4-3; Universals
+
+Round: 3
+
+; St. Michaels; 1-0; Fall River Rovers
+
+; Fairlawn Rovers; 4-2; Crompton
+
+; Saylesville; 4-0; Booth Mill
+
+; Murphys FC; 4-0; British-Canadians
+
+Round: Semifinals
+
+; Saylesville; 4-2; Fairlawn Rovers
+
+; Murphys FC; 5-1; St. Michaels
+
+Round: Final
+
+; Murphys FC; 1-0; Sayles FP FC
+
+Competition: Guy Norman Cup
+Round: 1
+
+; Fairlawn Rovers; 5-2; Sacred Heart
+
+; Ashton Rangers; 12-0; Natick Mill
+
+; Centreville Mill; 2-0; Andrews FC
+
+; Thornton Jrs. 2-0; Lonsdale Seconds
+
+; Pontiac Mill; 3-0; Fenner AC
+
+Round: 2
+
+; Whiting & Davis; 4-1; Potter & John
+
+; Fairlawn Rovers; 3-2; Centreville
+
+; Esmond-Cortex; 5-2; Sayles Seconds
+
+; Pocasset Rovers; 4-2; Pontiac Mill
+
+; Ashton Rangers; 1-0; Arctic Mill
+
+; Darlington Rovers; 5-1; Smithfield Rovers
+
+; Taft AC; 8-1; Valley Queen
+
+; Thornton Jrs.; 1-0; Royal Mill
+
+Round: 3
+
+; Esmond-Cortex; 2-1; Whiting & Davis
+
+; Pocasset Rovers; 4-0; Darlington Rovers
+
+; Taft AC; 2-0; Fairlawn Rovers
+
+; Ashton Rangers; 4-2; Thornton Jrs.
+
+Round: Semifinals
+
+; Taft AC; 1-0; Esmond-Cortex
+
+; Pocasset Rovers; 5-4; Ashton Rangers
+
+Round: Final
+
+; Pocasset Rovers; 3-1; Taft AC
+
+Competition: Kerr Thread Cup
+Round: 1
+
+; Cleveland Rovers; 4-2; Riverside AC
+
+; Murphys FC; 4-0; Booth Mill
+
+; Dartmout Mfg. Co.; 1-0; Workingman's FC
+
+; Shawmut FC; 3-1; Universals
+
+; Odd Fellows; 2-1; Starlights
+
+Round: 2
+
+; Murphys FC; 8-0; New Bedford
+
+; Maderios SFC; 1-0; Cleveland Rovers
+
+; Dartmouth Mfg. Co.; 1-0; North Stara
+
+; Odd Fellows; 4-0; Shawmut AC
+
+Round: Semifinals
+
+; Maderios SFC; 2-1; Dartmouth
+
+; Murphys FC; 2-0; Odd Fellows
+
+Round: Final
+
+; Murphys FC; 4-1; Maderios SFC
+
+Competition: Surprise Cup
+Round: 1
+
+; Gosnold; 1-0; Dartmouth
+
+; Potomska; 2-0; Holmes
+
+; Butler; 2-0; National Sewing Silk
+
+; Nashswens; 6-0; Atlas Tack
+
+; Wamsutta; 2-1; FE Earle
+
+; Whitman; 2-2; Pierce
+
+; Acushnet-Hathaway; 0-0; Booth
+
+; Whitman; 1-0; Pierce
+
+; Booth; 3-1; Acushnet-Hathaway
+
+Round: 2
+
+; Gosnold; 1-0; Nashawena
+
+; MT Drill; 1-0; Booth
+
+; Whitman; 1-0; Butler
+
+; Wamsutta; 1-0; Potomska
+
+Round: Semifinals
+
+; Whitman; 10-2; MT Drill
+
+; Gosnold; 5-1; Wamsutta
+
+Round: Final
+
+; Whitman; 4-1; Gosnold
 
 
-* page 91
-* Massachusetts Cups
+* p91
+Competition: Massachusett State Cup
 
-* page 93
-* Williamson Cup
+Round: 1
+
+10/22/1921; Smith & Dove; 5-2; Massachusetts Cotton Milles
+
+10/22/1921; Abbot Worsted; 3-0; GE United
+
+10/22/1921; Arlington Mills; 2-2; American Woolen
+
+10/22/1921; American Woolen; 2-1; Arlington Mills
+
+10/22/1921; Roxbur; 1-0; Farnum Shoe
+
+10/22/1921; St. George; 2-1; Lynn Gas All Americans
+
+10/22/1921; Sturtevant; 4-0; South Boston Rangers
+
+10/22/1921; Sturtevant; 1-1; South Boston Rangers
+
+10/22/1921; South Boston Rangers; 2-1; Sturtevant
+
+10/22/1921; Charleston; 1-0; Swedish Americans
+
+10/22/1921; Saxony Mills; W-L; Braintree Welfare
+Forfeit
+
+10/22/1921; Chicopee Rovers; 5-1; Ludlow Portuguese
+
+10/22/1921; Ludlow Portuguese; 1-2; Holyoke
+
+* Byes: Methuen, Gray & Davis, GE Thistle, Fore River, Ludlow Thistle, Falco
+
+Round: 2
+
+11/12/1921; Gray & Davis; 2-0; St. George
+11/12/1921; GE Thistle; 3-1; Roxbury
+11/12/1921; South Boston Rangers; 0-6; Fore River
+11/12/1921; Saxony Mills; 2-4; Charlestown
+11/12/1921; Ludlow Thistle; 2-2; Whitins
+11/12/1921; Whitins; 1-0; Ludlow Thistle
+11/12/1921; Abbot Worsted; 6-2; Methuen
+11/12/1921; Smith & Dove; 3-1; American Woolen
+11/12/1921; Wales; 4-0; Chicopee Rovers
+
+Round: 3
+
+12/3/1921; Gray & Davis; 0-2; Abbot Worsted
+12/3/1921; Smith & Dove; 1-2; Fore River
+12/3/1921; Charlestown; 1-2; GE Thistle
+12/3/1921; Whitins; 2-4; Wales
+
+Round: Semifinals
+
+; Falco; 6-1; GE Thistle
+
+; Abbot Worsted; 3-1; Fore River
+
+Round: Final
+
+4/29/1922; Abbot Worsted; 1-1; Falco
+
+6/6/1922; Abbot Worsted; 2-3; Falco
+
+* p93
+Competition: Williamson Cup
+
+Round: 1
+
+; Roxbury; 0-0; South Boston Rangers
+
+; Roxbury; 3-1; South Boston Rangers
+
+; Armenian Amer.; 0-2; South Boston Celtic
+
+; Sturtevants; 0-0; Gray & Davis
+
+; Maple Leaf Juniors; 5-0; Vikings
+
+; Braintree Welfare; 3-0; Charlesetown
+
+; Swedish-Americans; W-L; Lynn Gas & Electric
+Forfeit
+Notes: Lynn Gas withdrew.
+
+Round: 2
+
+; Maple Leaf Juniors; 0-3; Roxbury
+
+; South Boston Celtics; 1-4; Swedish-Americans
+
+Round: Semifinals
+
+Roxbury; 5-1; Swedish-Americans
+
+; Gray & Davis; 3-2; Braintree Welfare
+
+Round: Final
+
+; Gray & Davis; 3-0; Roxbury
 
 
-*page 101
-* Western Pennsylvania Cup?
+* p95
+* New Bedford Industrial Football League
+* Connecticut State Football Association
 
-* page 105
-* Allied Amateur Cup
 
-* page 107
-* Hohlfeld Cup
+* p101
+Competition: Western Pennsylvania Cup
+* name?
 
-* page 109
+Round: 1
+
+; Madison; 2-1; Yukon
+
+; Ulster Society; 2-1; Greensburg
+
+; Curtisville; 3-2; East Pittsburgh
+
+; Amsterdam; 5-4; Central AC
+
+; Neff; 4-1; Follansbee
+
+; Tiltonville; 5-1; Trisdelphia
+
+; Victory Hill; 4-1; Montour No. 10
+
+; Dunlevy; 1-0; National No. 4
+
+; Curry; 2-1; Houston
+
+; Castle Shannon; 4-0; Beaver Falls
+
+; Cuddy; 4-0; Primrose
+
+; Moon Run Juniors; 1-0; Cannonsburg
+
+; Avella; 3-1; Bridgeville
+
+; Morgan Juniors; 10-1; Mine No. 3
+
+Round: 2
+
+; Avella; 6-1; McDonald
+
+; Morgan Juniors; 4-1; Pittsburgh Rovers
+
+; Keystone; 1-0; Ulster Society
+
+; Rillton; 1-0; Herminie
+
+; Castle Shannon AA; 2-0; Neff
+
+; Overbrok; 1-0; Imperial
+
+; Steubenville; 5-1; Salineville
+
+; Madison; 5-1; Clan Robertson
+
+; Amsterdam; 5-0; Tiltonville
+
+; Sturgeon; 5-0; Curtisville
+
+; Castle Shannon; 1-0; Curry
+
+; Arden; 1-0; Moon Run
+
+; Heidelberg; 6-1; Moon Run Juniors
+
+; Dunlevy; 0-0; Roscoe
+
+; Dunlevy; 5-0; Roscoe
+
+; Cuddy; 5-2; Beadling
+
+; Victory Hill; 2-1; Gallatin
+
+Round: 3
+
+; Heidelberg; 6-2; Overbrook
+
+; Keystone; 2-0; Rillton
+
+; Sturgeon; 2-1; Madison
+
+; Amsterdam; 4-0; Steubenville
+
+; Arden; 3-0; Castle Shannon AA
+
+; Castle Shannon; 4-1; Morgan Rovers
+
+; Cuddy; 2-1; Avella
+
+; Victory Hill; 2-1; Dunlevy
+
+Round: 4
+
+; Victory Hill; 5-1; Keystone
+
+; Castle Shannon; 7-4; Heidelberg
+
+; Cuddy; 2-0; Amsterdam
+
+; Sturgeon; 0-0; Arden
+
+; Sturgeon; 2-2; Arden
+
+; Sturgeon; 0-0; Arden
+
+; Sturgeon; 1-1; Arden
+
+; Sturgeon; 2-1; Arden
+
+Round: Semifinals
+
+; Victory Hill; 1-0; Castle Shannon
+
+; Cuddy; 5-4; Sturgeon
+
+Round: Final
+
+; Cuddy; 2-1; Victory Hill
+
+
+* p105
+Competition: Allied Amateur Cup
+
+Round: Preliminary
+
+; British Great War Vets; 1-4; Viscose
+
+; Francisville; 1-5; Purtain
+
+; Hardwick & Magee; 2-1; Glenn Social
+
+; Autocar; 3-2; Nativity
+
+; Eden; 0-5; Clover
+
+; Disston Steel; 3-1; Conshohocken
+
+Round: 1
+
+; Albion; 2-1; ME Smith
+
+; Robin; 3-1; Lighthouse BC
+
+; Aldan AA; 1-3; Palethorpe
+
+; Wolfenden Shore; 4-1; Fanhill
+
+; Clover; 5-2; Belmont
+
+; Autocar; 0-1; Hardwick & Magee
+
+; Disston Saw; 0-1; Viscose
+
+; De Paul; 3-1; North Philadelphia
+
+; Puritan; 1-0; Kensington Cong.
+
+; Wissinoming; 1-0; Victrix
+
+; Green Ribbon; 3-1; Gordon
+
+; Centennial; 1-3; Ascension
+
+; Canadian War Vets; 6-1; Feltonville
+
+; SB & BW Fleisher; 6-0; Sunshine
+
+; Disston Steel; 0-1; Wildwood
+
+Round: 2
+
+; Palethorpe; 1-2; Wolfenden Shore
+
+; Wissinoming; 2-4; Clover
+
+; Ascension; 1-0; Kaywood
+
+; Robin; 1-3; De Paul
+
+; Albion; 1-3; Puritan LML
+
+; Wildwood; 2-4; Canadian War Vets
+
+; Fleisher; 5-1; Viscose
+
+; Hardwick & Magee; 2-0; Green Ribbon
+
+Round: 3
+
+; De Paul; 4-1; Wildwood
+
+; Ascension; 1-2; Fleisher
+
+; Hardwick & Magee; 2-1; Clover
+
+; Wolfendon Shore; 2-1; Puritan
+
+Round: Semifinals
+
+; Wolfenden Shore; 3-2; De Paul; Tacony Ball Park
+
+; Hardwick & Magee; 1-4; Tacony Ball Park
+
+Round: Final
+
+; SB & BW Fleisher; 4-1; Wolfendon Shore
+
+* p106
+* SB&BW Fleisher
+* Fleisher Yarn
+
+Competition: Unknown league
+
+*; Fleisher Yarn; 2-2; Electric Storage Battery FC
+* etc.
+
+
+Competition: National Challenge Cup
+Round: 1
+
+; Fleisher Yarn; 1-0; Hibernians
+
+Round: 2
+
+; Fleisher Yarn; 4-1; Viscose Marcus Hook
+
+Round: 3
+
+Fleisher Yarn; 4-1; Bethlehem Steel
+
+Round: 4
+
+; Philadelhpia; 6-1; Fleisher Yarn
+
+Competition: Telegraph Cup
+Round: 1
+
+; Fleisher Yarn; 4-0; Sunshine
+
+Round: 2
+
+; Fleisher Yarn; 3-1; Ascension
+
+Round: 3
+
+; Fleisher Yarn; 4-1; Viscose
+
+Round: Semifinals
+
+; Fleisher Yarn; 4-2; Hardwick & Magee
+
+Round: Final
+
+; Fleisher Yarn; 3-1; Wolfenden Shore
+
+
+Competition: Hohlfeld Cup
+* confined to Industrial League teams, only three clubs were entered.
+
+Round: 1
+
+* Fleisher bye.
+
+Round: 2
+
+; Fleisher Yarn; 6-1; Electric Storage Battery
+
+Competition: Friendly
+
+; Fleisher Yarn; 4-1; University of Pennsylvania
+
+; Fleisher Yarn; 6-1; Philadelphia Hibernians
+
+; Fleisher Yarn; 1-0; Philadelphia Hibernians
+
+; Fleisher Yarn; 2-0; Philadelphia Athletics
+
+; Fleisher Yarn; 3-0; Marshall E. Smith
+
+; Fleisher Yarn; 6-1; Philadelphia amateurs XI
+
+; Fleisher Yarn; 4-1; Albion
+
+; Fleisher Yarn; 7-0; Clover
+
+; Fleisher Yarn; 4-1; Kaywood
+
+; Fleisher Yarn; 2-0; Kaywood
+
+; Fleisher Yarn; 7-0; Kingsessing
+
+
+* p109
 * Baltimore Soccer League final attracted 15000 fans at Latrobe Park
 
-* page 117
-* Ohio State Championship
+* p117
+Competition: Ohio State Championship
+Round: 1
 
-* page 123
-* Peel Cup
+; Toledo; 4-1; Fremont
+
+; Lorain; 4-0; British
+
+; Goodyear; 3-0; Firestone
+
+; Kenmore; 2-0; Sons of St. George (Akron)
+
+; Niles; 0-4; Sons of St. George (Youngstown)
+
+Round: 2
+
+; Youngstown; 1-0; Mahoning Valley
+
+; Magyars; 1-0; Ideal Tires
+
+; Lorain; 4-1; White Motors
+
+; Goodyear; 3-1; Cornwallis
+
+; Kenmore; 2-0; Hollands
+
+Round: 3
+
+; Magyars; 6-1; TOledo
+
+; Youngstown; 5-0; Sons of St. George
+
+Round: 4
+
+; Magyars; 0-2; Youngstown
+
+Round: Semifinals
+
+; Lorain; v; Kenmore
+
+; Lorain; 1-0; Kenmore; Kenmore
+
+; Goodyear; v; Youngstown
+
+; Goodyear; 2-1; Youngstown
+
+Round: Final
+
+; Lorain; v; Goodyear
+
+; Goodyear; 1-0; Lorain
+
+
+
+* p123
+Competition: Peel Cup
+
+Round: 1
+* round separations are approximate
+
+; St. George; 2-2; Alverno Maroons; home; P. Conitier
+
+; Chicago Hungarians 2d; 3-4; Chicago Hungarians 1st; home; William Bentham
+
+; Sparta Union 2d; 1-2; Victoria 1st; home; John Leech
+
+; Sparta Union 3d; 0-4; Sparta Union 1st; home; A. McKenzie
+
+; Roseland; 2-0; Vikings; home; R. Shanks
+
+; Jugo-Slavia; 4-0; Norwegian 2d; home; R. McMahon
+
+; Corinthians; 1-0; YMHA; home; T.W. Trenter
+
+; Swedish 3d; 0-1; Sparta Union 1st; home
+Forfeit
+
+; Alverno Maroons; 1-1; St. George; home; P. Conitier
+
+; Gary; 1-0; Victoria 2d; home; J. Triaicka
+Forfeit
+
+; Victoria 1st; 2-4; North Shore; home; T.W. Trenter
+
+; Swedish-American 2d; 1-2; Jugo-Slavia; home; R. McMahon
+
+Round: 2
+
+; Ulster United; 2-2; Norwegian 1st; home; C. Donaghy
+
+; Hungarian 1st; 2-0; Corinthians; home; A. McKenzie
+
+; Norwegian 1st; 2-1; Ulster United; home; C. Donaghy
+
+; St. George; 2-2; Alverno Maroons; home; P. Conitier
+
+; Gary; 6-0; Alverno Maroons; home; W. Napier
+
+; Olympia; 12-0; Jugo-Slavia; home; A. McKenzie
+
+; Bricklayers; 4-7; Pullman; home; J. Johnston
+
+; Thistles; 4-1; Corinthians; home; D. McKean
+
+; North Shore; 0-0; Canadian Club; home; P. Gemmill
+
+; Swedish 1st; 2-1; Sparta Union 1st; home; J. Steinberger
+
+; Canadian Club; 4-0; North Shore; home; P. Gemmill
+
+; Norwegian-American; 1-0; Roseland; home; P. Gehmill
+
+Round: 3
+
+; Harvey; 2-4; Rangers; home; D. McKean
+
+; Gary; 2-4; Olympia; home; J.W. Wood
+
+; Rangers; 7-0; Norwegian 1st; home; P. Gemmill
+
+; Pullman; 2-1; Canadian Club; home; J. Johnston
+
+Round: Semifinals
+
+; Thistles; 1-2; Olympia; home; J. Johnston
+
+; Pullman; 0-0; Rangers; home; W. Napier
+
+; Pullman; 2-1; Rangers; home; W. Napier
+
+Round: Final
+
+; Olympia; 2-2; Pullman; home; W. Napier
+
+; Pullman; 2-3; Olympia; home; W. Napier, J.W. Wood, J. Sternberger
 
 * page 157
 * soccer in Great Britain
