@@ -1,10 +1,8 @@
-BlockSource: Spalding Soccer Guide
-Season: 1922-1923
-
+BlockSource: Spalding Soccer Guide 1923-1924
 
 * p88
-
 Competition: La Sultana Cup
+Season: 1922-1923
 
 Round: 1
 
@@ -30,8 +28,8 @@ Round: Final
 
 
 * p109
-
 Competition: West Penn Senior Cup
+Season: 1922-1923
 
 Round: 1
 
@@ -100,6 +98,7 @@ Round: Final
 
 
 Competition: West Penn Junior Cup
+Season: 1922-1923
 
 Round: 1
 
@@ -138,6 +137,7 @@ Round: Final
 
 * p119
 Competition: Ohio State Championship
+Season: 1922-1923
 
 Round: 1
 
@@ -240,7 +240,7 @@ Round: 1
 
 Round: 2
 
-; Harve; 4-0; Gary
+; Harvey; 4-0; Gary
 
 ; Bricklayers; 3-2; Swedish-Americans
 
