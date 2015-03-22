@@ -9,7 +9,7 @@ BlockSource: Spalding Soccer Guide 1916-1917
 * p58
 * AAFA standings
 
-
+* p59
 Competition: Allied Amateur Cup
 Season: 1915-1916
 
@@ -60,6 +60,7 @@ Round: Final
 * p62
 * Southern New England Football Association
 
+* p62
 Competition: Times Cup
 Season: 1915-1916
 
@@ -133,6 +134,7 @@ Round: Final
 * p73
 * NAFL
 
+* p73
 * Brooklyn Celtic
 
 Competition: National Challenge Cup
@@ -229,16 +231,77 @@ Season: 1915-1916
 * Greensville FC cup results
 
 
+Competition: Metropolitan League
+Season: 1915-1916
+
+* aggregate goals...useless.
+*; Greenville FC; 
+*; Greenville FC; 
+*; Greenville FC; 
+*; Greenville FC; 
+*; Greenville FC; 
+*; Greenville FC; 
+*; Greenville FC; 
+*; Greenville FC; 
+*; Greenville FC; 
+*; Greenville FC; 
+*; Greenville FC; 
+*; Greenville FC; 
+*; Greenville FC; 
+
+
+Competition: USFA Cup
+Season: 1915-1916
+
+; Our Boys; 4-1; Greenville FC
+
+Competition: AFA Cup
+Season: 1915-1916
+
+; Babcock & Wilcox; 2-1; Greenville FC
+
+Competition: Metropolitan Cup
+Season: 1915-1916
+
+; Bay Ridge; 0-5; Greenville FC
+
+; Fulton Camerons; 2-3; Greenville FC
+
+; Fulton Camerons; 1-3; Greenville FC
+
+; Visitation FC; 1-1; Greenville FC
+
+; Visitation FC; 1-2; Greenville FC
+
+
 * p76
 * West Hudson
 
 Competition: USFA Cup
 
-; West Hudson; 
+Round: 1
+
+; West Hudson; 1-1; Clan McDonald
+; West Hudson; 2-1; Clan McDonald
+
+Round: 2
+
+; West Hudson; 0-0; Yonkers
+; West Hudson; 2-0; Yonkers
+
+Round: 3
+
+; West Hudson; 2-1; Babcock & Wilox
+
+Round: 4
+
+; West Hudson; 0-1; Bethlehem
 
 Competition: AFA Cup
 
-; West Hudson; 
+; West Hudson; 1-1; Jersey AC
+
+; West Hudson; 0-1; Jersey AC
 
 Competition: National League
 
@@ -256,7 +319,6 @@ Competition: National League
 Notes: unfinished
 
 ; West Hudson; 2-6; Scots
-
 
 
 Competition: Friendly
