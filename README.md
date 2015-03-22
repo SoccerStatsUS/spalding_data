@@ -1,13 +1,15 @@
-# Dallas Sidekicks soccer data
-
-## What's soccerstats.us?
-
-An open source soccer statistics database and website
-More [soccerstats.us](http://www.soccerstats.us)
+# Spalding Soccer Guide data
 
 ## Intro
 
-Open Source statistics from the Spalding Soccer Guide
+This is a project to convert the Spalding Soccer guides into computer readable data.
+
+The Spalding Soccer guides are one of the best primary resources for early 20th century American soccer. First published in 1904, and then intermittently until 1923, the Spalding soccer guides were annual yearbooks describing the previous year's results.
+
+They are a particularly rich source of game and standing data for a rich variety of teams and leagues, as well as photographic information and descriptions.
+
+
+## Years
 
 * 1904-1905
 * 1906-1907
@@ -69,4 +71,9 @@ Email chris@soccerstats.us or [contact](http://www.soccerstats.us/contact)
 
 
 
+
+## What's soccerstats.us?
+
+An open source soccer statistics database and website
+More [soccerstats.us](http://www.soccerstats.us)
 
