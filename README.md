@@ -2,7 +2,7 @@
 
 ## Intro
 
-This is a project to generate highly reliable data about early american soccer history / results by converting directly from the Spalding Soccer Guides. Early American soccer history is particularly confusing / badly documented, and having a well-organized version of this data will be a valuable step towards understanding the many many leagues and teams that played in the first quarter of the 20th century.
+This is a project to generate high quality data about early american soccer history / results by converting directly from the Spalding Soccer Guides. Early American soccer history is particularly confusing / badly documented, and having a well-organized version of this data will be a valuable step towards understanding the many many leagues and teams that played in the first quarter of the 20th century.
 
 The Spalding Soccer guides are one of the best primary resources for early 20th century American soccer. First published in 1904, and then intermittently until 1923, the Spalding soccer guides were annual yearbooks describing the previous year's results.
 
@@ -11,9 +11,8 @@ They are a particularly rich source of game and standing data for a rich variety
 ### Similar repositories:
 
 * [bethlehem_data](https://github.com/soccerstatsus/bethlehem_data) - recording the history of Bethlehem Steel
-* [friendly_data](https://github.com/soccerstatsus/bethlehem_data) - data for friendly games played in US back to 1860.
-* [usd1_data](https://github.com/soccerstatsus/bethlehem_data) - data for 1st division leagues in the US, including ALPF (1894) and ASL1 (1921-1930)
-
+* [friendly_data](https://github.com/soccerstatsus/friendly_data) - data for friendly games played in US back to 1860.
+* [usd1_data](https://github.com/soccerstatsus/usd1_data) - data for 1st division leagues in the US, including ALPF (1894) and ASL1 (1921-1930)
 
 
 ## Publication years
