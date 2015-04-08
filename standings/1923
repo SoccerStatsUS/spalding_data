@@ -41,7 +41,7 @@ Competition: New York State Association Football League
 Competition: Northwestern New Jersey Amateur Soccer League
 Season: 1922-1923
 
-Key: teams; wins; losses; ties; goals_for; goals_against; points
+Key: team; wins; losses; ties; goals_for; goals_against; points
 
 Hudson; 16; 2; 0; 68; 11; 32
 McLeod; 14; 2; 2; 41; 13; 30
