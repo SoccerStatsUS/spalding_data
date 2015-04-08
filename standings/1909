@@ -96,6 +96,8 @@ Bulger; 1; 4; 3; 5
 Competition: St. Louis Soccer League
 Season: 1908-1909
 
+Key: team; games; wins; losses; ties; points; goals_for; goals_against
+
 St. Leos; 18; 12; 2; 4; 28; 39; 14
 St Teresas; 18; 7; 4; 7; 21; 23; 20
 West Ends; 18; 4; 7; 7; 15; 12; 17
@@ -123,7 +125,7 @@ Wasps; 3; 5; 0; 6
 Humboldts; 0; 8; 0; 0
 
 
-Competitoin: Califonia Foot Ball League
+Competition: Califonia Foot Ball League
 Season: 1908-1909
 Key: team; wins; losses; ties; points; goals_for; goals_against
 

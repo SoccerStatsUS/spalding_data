@@ -1,6 +1,6 @@
 BlockSource: Spalding soccer guide 1904-1905
 
-*Key: team; games; wins; losses; ties; goals_for; goals_against; points
+Key: team; wins; ties; losses; goals_for; goals_against
 
 * p. 67
 
@@ -26,6 +26,7 @@ Hyde Park Greys; 0; 2; 7; 10; 35
 * p. 82 Toronto Foot Ball Association
 Competition: Toronto Foot Ball Association
 Season: 1904
+Key: team; wins; ties; losses
 
 Royal Canadians; 7; 2; 1
 Scots; 6; 3; 1
@@ -36,6 +37,7 @@ Thistles; 0; 0; 10
 
 
 Competition: Toronto Foot Ball Association Intermediate
+
 
 Little York; 3; 1; 0
 Wychwood; 1; 1; 2

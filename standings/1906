@@ -65,6 +65,8 @@ Lynn; 1; 0; 1; 0; 0
 Competition: Association Foot Ball League of Chicago
 Season: 1905-1906
 
+Key: team; wins; losses; ties; points
+
 Pullman; 6; 1; 1; 13
 Hyde Park Blues; 3; 2; 4; 10
 Wanderers; 3; 4; 1; 7

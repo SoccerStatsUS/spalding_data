@@ -57,7 +57,7 @@ Competition: Northern New Jersey League Division 2
 Season: 1916-1917
 
 American AA; 8; 7; 0; 2; 16
-Singer AA; 6; 2; 0; 12
+Singer AA; 8; 6; 2; 0; 12
 Neptune FC; 8; 2; 5; 1; 5
 Astoria FC; 8; 1; 6; 1; 3
 National AA; 8; 1; 7; 0; 2
@@ -127,7 +127,7 @@ Dissston; 7; 7; 0; 0; 29; 4; 30
 Putnam; 8; 6; 2; 0; 22; 7; 16
 Hibernians; 9; 5; 4; 0; 22; 15; 12
 Rangers; 7; 2; 5; 0; 7; 27; 6
-Victor; 0; 7; 0; 2; 35; 2
+Victor; 7; 0; 7; 0; 2; 35; 2
 Feltonville; 5; 2; 3; 0; 12; 11; 0
 
 
@@ -184,6 +184,8 @@ Competition: Baltimore Public Athletic League
 * p88
 Competition: Western Missouri-Kansas Soccer FOotball Association
 Season: 1916-1917
+
+Key: team; games; wins; losses; ties; points
 
 Tigers; 22; 16; 3; 3; 35
 Schmeizers; 22; 12; 6; 4; 28

@@ -24,10 +24,11 @@ Meriden; 0; 10; 0; 0
 
 Competition: Bridgeport Junior League
 Season: 1922-1923
+
 Key: team; games; wins; losses; ties; points
 
 Hollister Thistles; 5; 4; 1; 0; 8
-La Victoria; 5; 3; 2; 0; 6; 
+La Victoria; 5; 3; 2; 0; 6
 St. George Juniors; 4; 0; 4; 0; 0
 
 
@@ -40,7 +41,7 @@ Competition: New York State Association Football League
 Competition: Northwestern New Jersey Amateur Soccer League
 Season: 1922-1923
 
-Key: wins; losses; ties; goals_for; goals_against; points
+Key: teams; wins; losses; ties; goals_for; goals_against; points
 
 Hudson; 16; 2; 0; 68; 11; 32
 McLeod; 14; 2; 2; 41; 13; 30
@@ -159,8 +160,8 @@ Boeing Airplane Co.; 3; 1; 2; 8
 Woodland Park; 3; 2; 2; 8
 Tacoma; 3; 1; 1; 7
 Maple Leaf; 2; 2; 2; 6
-Post Office; 1; 4; 1
-Fort Lawson; 0; 6; 0
+* Post Office; 1; 4; 1
+* Fort Lawson; 0; 6; 0
 
 * Second Division
 
