@@ -87,7 +87,8 @@ Montclair AC; 9; 5; 2; 2; 21; 13; 11
 Richmond County; 10; 4; 3; 3; 15; 13; 11
 Bensonhurst FC; 9; 4; 3; 2; 21; 14; 10
 Crescent AC; 10; 3; 4; 3; 13; 16; 9
-Englewood FC; 10; 0; 9; 1; 6; 44; 1
+* Englewood FC; 10; 0; 9; 1; 6; 44; 1 [unsure which is correct?]
+Englewood FC; 10; 0; 9; 1; 16; 44; 1 
 
 
 Competition: Saturday Amateur Soccer League
@@ -129,7 +130,7 @@ Competition: Pittsburgh and District Association Football League
 Season: 1915-1916
 Key: team; games; wins; losses; ties; goals_for; goals_against; points
 
-Neblestown; 10; 9; 1; 0; 41; 9; 18
+Noblestown; 10; 9; 1; 0; 41; 9; 18
 Pittsburgh Rovers; 10; 8; 2; 0; 27; 13; 16
 Homestead Steel Works; 10; 8; 2; 0; 25; 11; 16
 Westinghouse Afr Brake Co; 10; 3; 7; 0; 15; 17; 6
@@ -202,7 +203,11 @@ Tiger FC; 8; 6; 2; 0; 22; 5; 12
 Shamrock FC; 8; 5; 2; 1; 14; 9; 11
 Schmelzer FC; 7; 3; 3; 1; 8; 9; 7
 St. George FC; 7; 2; 5; 0; 8; 11; 4
+<<<<<<< HEAD
 British-American FC; 8; 2; 6; 0; 4; 21; 4
+=======
+British-American FC; 7; 2; 6; 0; 4; 21; 4
+>>>>>>> 24ef02670228a690bb6b052fb79a12820fc4dc2b
 
 
 * p95

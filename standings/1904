@@ -1,6 +1,7 @@
 BlockSource: Spalding soccer guide 1904-1905
 
 * Key: team; games; wins; losses; ties; goals_for; goals_against; points
+Key: team; wins; ties; losses; goals_for; goals_against
 
 * p. 67
 
@@ -28,6 +29,7 @@ Hyde Park Greys; 0; 2; 7; 10; 35
 * p. 82 Toronto Foot Ball Association
 Competition: Toronto Foot Ball Association
 Season: 1904
+Key: team; wins; ties; losses
 
 Key: team; wins; ties; losses
 
@@ -40,6 +42,7 @@ Thistles; 0; 0; 10
 
 
 Competition: Toronto Foot Ball Association Intermediate
+
 
 Little York; 3; 1; 0
 Wychwood; 1; 1; 2
@@ -63,7 +66,7 @@ St. Mary Magdalene; 0; 0; 6
 Competition: Toronto Foot Ball Association Juvenile
 
 Capitals; 8; 1; 1
-Braodviews; 7; 2; 0
+Broadviews; 7; 2; 0
 Eureka; 6; 1; 2
 All Saints; 3; 0; 7
 Ivanhoe; 1; 1; 8
