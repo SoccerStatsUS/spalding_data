@@ -56,19 +56,22 @@ Competition: Public Athletic League Baltimore
 
 Competition: Cincinnati Soccer League
 Season: 1918-1919
+* Key: team; 
 
-Caledonians; 7; 0; 2; 20; 
-Northside; 4; 3; 2
-FIA; 2; 4; 2; 8; 9; 8
-West Cincinnati; 1; 2; 2; 8; 13; 4
-Walnut Hills; 1; 0; 3; 5; 4; 2
-Price Hills; 0; 0; 3; 2; 12; 0
+* Caledonians; 7; 0; 2; 20; 
+* Northside; 4; 3; 2
+* FIA; 2; 4; 2; 8; 9; 8
+* West Cincinnati; 1; 2; 2; 8; 13; 4
+* Walnut Hills; 1; 0; 3; 5; 4; 2
+* Price Hills; 0; 0; 3; 2; 12; 0
 
 * p116
 * Illinois State Football Association
 
 Key: team; wins; ties; losses; points
 Competition: Illinois State Football Association 1st Division
+
+Key: team; wins; ties; losses; points
 
 Scottish Americans; 10; 1; 1; 21
 Lincoln Park; 6; 4; 2; 16
@@ -99,6 +102,7 @@ American Hungarians Juniors; 1; 0; 9; 2
 
 * p121
 Competition: Detroit and District League
+Key: team; wins; ties; losses; goals_for; goals_against; points
 
 Roses; 5; 1; 1; 16; 4; 11
 Detroits; 5; 0; 2; 13; 8; 10
@@ -126,6 +130,7 @@ Ben Millers; 5; 7; 9; 30; 40; 17
 * p131
 Competition: Memphis Associated Amateurs
 Season: 1918-1919
+Key: team; wins; ties; losses; points
 
 Christian Brothers College; 11; 3; 0; 25
 Floyds; 7; 3; 4; 17

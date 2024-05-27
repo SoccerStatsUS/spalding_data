@@ -57,7 +57,7 @@ Thistles; 10; 1; 8; 1; 9; 43; 3
 Competition: Allied American Foot Ball Association 
 Season: 1913-1914
 * First Division
-Key: team; games; wins; losses; ties; goals_for; goals_against; points
+Key: team; wins; losses; ties; goals_for; goals_against; points
 
 Bethlehem; 13; 0; 0; 68; 8; 26
 West Philadelphia; 10; 2; 1; 41; 19; 21
@@ -111,6 +111,8 @@ Edgar Thompson Steel Works; 2; 17; 1; 3; 46; 5
 * p93
 Competition: Press Soccer Foot Ball League
 Season: 1913-1914
+
+Key: team; games; wins; losses; ties; goals_for; goals_against; points
 
 Dunlevy; 14; 9; 0; 5; 31; 13; 23
 Pricedale; 14; 8; 2; 4; 30; 16; 20

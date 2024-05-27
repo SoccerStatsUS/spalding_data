@@ -409,7 +409,7 @@ Season: 1921-1922
 Round: 1
 
 ; Abbot Worsted; 8-0; General Electric
-Kershaw, Kershaw, Kershaw, Hulse, Page, MacMaster, McIntosh, Cosgrove
+Kershaw, Kershaw, Kershaw, Hulse, Page, MacMaster, McIntosh, Cosgrove;
 
 Round: 2
 
@@ -419,14 +419,14 @@ Kershaw, Kershaw, Kershaw, Page, Page, Farquhar;
 Round: 3
 
 ; Abbot Worsted; 2-0; Grey & Davis
-Kershaw, Farquhar; 
+Kershaw, Farquhar;
 
 
 Competition: Friendly
 Season: 1921-1922
 
 ; Abbot Worsted; 2-1; Fall River  United
-Kershaw, Farquhar
+Kershaw, Farquhar;
 
 
 * state league is listed twice, separately. this seems more like a cup.
@@ -440,7 +440,7 @@ Kershaw, Kershaw, Kershaw, Farquhar, Kane;
 Kershaw, Kershaw, Kershaw, Kershaw, Kane;
 
 ; Abbot Worsted; 4-0; American Woolen Co
-Kershaw, Kershaw, Page, Cosgrove
+Kershaw, Kershaw, Page, Cosgrove;
 
 Round: Semifinals
 
@@ -921,7 +921,7 @@ Round: 1
 
 ; Centreville Mill; 2-0; Andrews FC
 
-; Thornton Jrs. 2-0; Lonsdale Seconds
+; Thornton Jrs.; 2-0; Lonsdale Seconds
 
 ; Pontiac Mill; 3-0; Fenner AC
 
@@ -1132,7 +1132,7 @@ Round: 2
 
 Round: Semifinals
 
-Roxbury; 5-1; Swedish-Americans
+; Roxbury; 5-1; Swedish-Americans
 
 ; Gray & Davis; 3-2; Braintree Welfare
 
@@ -1371,7 +1371,7 @@ Round: 2
 
 Round: 3
 
-Fleisher Yarn; 4-1; Bethlehem Steel
+; Fleisher Yarn; 4-1; Bethlehem Steel
 
 Round: 4
 

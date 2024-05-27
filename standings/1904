@@ -1,11 +1,13 @@
 BlockSource: Spalding soccer guide 1904-1905
 
-*Key: team; games; wins; losses; ties; goals_for; goals_against; points
+* Key: team; games; wins; losses; ties; goals_for; goals_against; points
 
 * p. 67
 
 Competition: Chicago Foot Ball Association
 Season: 1904 Fall
+
+Key: team; wins; ties; losses; goals_for; goals_against
 
 Hyde Park Blues; 9; 1; 0; 37; 13
 Calumets; 6; 0; 3; 37; 13
@@ -26,6 +28,8 @@ Hyde Park Greys; 0; 2; 7; 10; 35
 * p. 82 Toronto Foot Ball Association
 Competition: Toronto Foot Ball Association
 Season: 1904
+
+Key: team; wins; ties; losses
 
 Royal Canadians; 7; 2; 1
 Scots; 6; 3; 1

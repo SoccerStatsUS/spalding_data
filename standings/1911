@@ -31,9 +31,12 @@ Astoria; 14; 1; 12; 1; 8; 38; 3
 
 Competition: New York State Amateur League Division 2
 
-Brooklyn Celtics; 12; 0; 2; 61; 6; 26
-Clan McDuff; 11; 2; 1; 55; 15; 23
-Clan Bruce; 9; 3; 2; 36; 26; 20
+Key: team; games; wins; losses; ties; goals_for; goals_against; points
+
+Brooklyn Celtics; 14; 12; 0; 2; 61; 6; 26
+Clan McDuff; 14; 11; 2; 1; 55; 15; 23
+Clan Bruce; 14; 9; 3; 2; 36; 26; 20
+
 Mt Vernon; 14; 5; 7; 2; 9; 22; 12
 McKenzie; 14; 5; 6; 3; 25; 27; 11
 * Fined 2 points for playing ineligible player
@@ -48,6 +51,8 @@ Hungarians; 14; 2; 12; 0; 16; 31; 0
 
 Competition: Field Club Soccer League of New York and New Jersey
 Season: 1910-1911
+
+Key: team; wins; losses; ties; goals_for; goals_against; points
 
 Crescent AC; 7; 0; 1; 36; 5; 15
 Staten Island C&TC; 6; 1; 4; 24; 5; 13
